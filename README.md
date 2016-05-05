@@ -5,4 +5,4 @@
 	
 最终效果图：
  
- <img src="https://github.com/QiuFairy/QLCopyLabel/blob/master/QLCLabel.png" alt="QLCLabel" width="400" height="568" />
+ <img src="https://github.com/QiuFairy/QLCopyLabel/blob/master/QLCLabel.png" alt="QLCLabel" width="321" height="150" />
